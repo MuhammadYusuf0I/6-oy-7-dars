@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container {
+  width: 1440px;
+  height: 880px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.header {
+  padding-top: 32px;
+  margin-left: 165px;
+}
+
+.hero {
+  width: 760px;
+  margin-top: 228px;
+  margin-left: 330px;
+}
+
+h1 {
+  font-size: 66px;
+  width: 740px;
+  align-items: center;
+  color: white;
+  line-height: 99px;
+  margin-bottom: 30px;
+}
+
+span {
+  margin-left: 180px;
+}
+.search {
+  margin-left: 20px;
+  width: 710px;
+  padding: 18px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+input {
+  display: flex;
+  border: none;
+  color: rgba(0, 0, 0, 0.3);
+  font-size: 18px;
+}
+
+p {
+  width: 354px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  margin-left: 190px;
+}
+
+button {
+  width: 200px;
+  height: 60px;
+  border-radius: 100px;
+  margin-left: 243px;
+  margin-top: 90px;
+}
